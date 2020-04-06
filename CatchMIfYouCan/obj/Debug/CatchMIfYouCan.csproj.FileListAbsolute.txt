@@ -1,0 +1,9 @@
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\bin\Debug\CatchMIfYouCan.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\bin\Debug\CatchMIfYouCan.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\bin\Debug\CatchMIfYouCan.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\CatchMIfYouCan\obj\Debug\CatchMIfYouCan.csprojAssemblyReference.cache

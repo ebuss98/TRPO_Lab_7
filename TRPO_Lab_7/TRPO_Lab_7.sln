@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRPO_Lab_7", "TRPO_Lab_7.csproj", "{B3A2FA1F-3074-4F80-A28F-BBD33393F271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMIfYouCan", "..\CatchMIfYouCan\CatchMIfYouCan.csproj", "{3AE03957-A303-40B4-8F3A-BAADED7545E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A2FA1F-3074-4F80-A28F-BBD33393F271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A2FA1F-3074-4F80-A28F-BBD33393F271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A2FA1F-3074-4F80-A28F-BBD33393F271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A2FA1F-3074-4F80-A28F-BBD33393F271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE03957-A303-40B4-8F3A-BAADED7545E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE03957-A303-40B4-8F3A-BAADED7545E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE03957-A303-40B4-8F3A-BAADED7545E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE03957-A303-40B4-8F3A-BAADED7545E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65108BBF-2463-42FE-88E6-C1DEC9A89E79}
+	EndGlobalSection
+EndGlobal
